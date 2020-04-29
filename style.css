@@ -1,0 +1,32 @@
+
+
+.content {
+  font-family: Arial, sans-serif;
+}
+
+.buttons {
+  /*display: flex;
+  justify-content: center;
+  align-items: center;*/
+}
+
+.btn {
+  color: #ffffff;
+  font-size: 30px;
+  border: 3px solid gray;
+  border-radius: 20px;
+  width: fit-content;
+  padding: 5px 5px;
+}
+
+.blue {
+  background-color: #0000ff;
+}
+
+.red{
+  background-color: red;
+}
+
+.light {
+  background-color: tan;
+}
